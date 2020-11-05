@@ -6,7 +6,7 @@
 # Publics
 The only bot with multipurpose and Invite-Tracer commands.with no lag and bugs!!.
 
-![Image](https://cdn.pterodactyl.io/site-assets/mockup-macbook-grey.png)
+![Image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pngmart.com%2Fimage%2F122323&psig=AOvVaw0LMdcTY0tYM_EUY3VsY3Sn&ust=1604663143628000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDj-Jmq6-wCFQAAAAAdAAAAABAD)
 
 ## Support & Documentation
  [Support server](https://discord.gg/EHwWE6Sfgq).
