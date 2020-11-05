@@ -6,7 +6,7 @@
 # Publics
 The only bot with multipurpose and Invite-Tracer commands.with no lag and bugs!!.
 
-![Image](https://lh3.googleusercontent.com/proxy/E64LcmLPvemYNtz1-NcfGXZbFM2UIqwBsJuMfwHnfs87NWtHX9WSwwQ0vczWujYfUuZ8--6hZw9VsLJj8QnB64iTvDEAgI17V037FUXHoq3nvbpxM3JPqD7di_4WOC3mL4EqyuhgJ63n)
+![Image](https://cdn.discordapp.com/avatars/733311503813443636/7f2c445ef1ddc3b15b94a2af71a4edf1.png?size=2048)
 
 ## Support & Documentation
  [Support server](https://discord.gg/EHwWE6Sfgq).
