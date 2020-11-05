@@ -1,7 +1,7 @@
 [![Logo Image](https://cdn.discordapp.com/avatars/733311503813443636/7f2c445ef1ddc3b15b94a2af71a4edf1.png?size=20)](https://discord.gg/EHwWE6Sfgq)
 
 
-[![Discord](https://img.shields.io/discord/122900397965705216.svg?style=flat-square&label=Discord)](https://discord.gg/EHwWE6Sfgq)
+[![Discord](https://img.shields.io/discord/727884708158898186?color=%23FF99JSH&label=DISCORD&logo=Discord&style=plastic)](https://discord.gg/EHwWE6Sfgq)
 
 # Publics
 The only bot with multipurpose and Invite-Tracer commands.with no lag and bugs!!.
