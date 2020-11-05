@@ -12,9 +12,13 @@ The only bot with multipurpose and Invite-Tracer commands.with no lag and bugs!!
  [Support server](https://discord.gg/EHwWE6Sfgq).
  
  1- Do -config join to get started.
+ 
  2- Write your joinmessage now.
- 3- Write your joinchannel now. 
+ 
+ 3- Write your joinchannel now.
+ 
  4-Its done YAY,Do -testjoin to test it!. 
+ 
  EX- {user} welcome to the server,invited by {inviter},invites {inviter.invites}.
  
 
